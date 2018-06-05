@@ -1,0 +1,19 @@
+
+#content {
+    width: 960px;
+    margin: 0 auto;
+}
+
+#menu {
+    width: 200px;
+    float: left;
+    height: 100%;
+}
+
+table {
+    width: 600px;
+}
+
+table tr td {
+    font-size: 20px;
+}
